@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+
+# Environment variables (ሚስጥራዊ መረጃዎች ስላላቸው በፍጹም Git ላይ አይጫኑም)
+.env
+
+# ሌሎች ሊካተቱ የሚችሉ ነገሮች
+.env.local
+.env.development.local
+dist/
+build/
+npm-debug.log*
